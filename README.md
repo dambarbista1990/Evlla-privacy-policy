@@ -1,5 +1,5 @@
 # Evlla-privacy-policy
-Hello Friends,
+Hello ,
 Evlla is a simple application, collection of world most popular "Quotes" spoken by world greatest thinker.
 We do not collect and store any kind of personal information.
 thank for using Evlla App.
